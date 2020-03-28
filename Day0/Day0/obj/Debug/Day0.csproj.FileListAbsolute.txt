@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\bin\Debug\Day0.exe.config
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\bin\Debug\Day0.exe
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\bin\Debug\Day0.pdb
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\obj\Debug\Day0.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\obj\Debug\Day0.exe
+C:\Users\HP\source\repos\30DaysOfCode\Day0\Day0\obj\Debug\Day0.pdb
